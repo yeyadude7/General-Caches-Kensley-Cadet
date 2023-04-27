@@ -4,6 +4,8 @@ Each program requires the traces.txt file
 
 All performance comparisons are implemented individually within each code via printf statements
 
+
+
 Fully Associative with LRU: HITS = 6504, ACCESSES = 9999, HIT RATE = 0.650465
 
 Fully Associative with Random: HITS = 6265, ACCESSES = 9999, HIT RATE = 0.626563
